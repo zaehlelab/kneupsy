@@ -32,13 +32,13 @@ zoom:
 		</a>
 	</div>
 </section>
-<p class="editable">Schlossansicht von Merseburg (Bildautor: Wolfgang Kubak), Verwendung mit freundlicher Genehmigung
+<!-- <p class="editable">Schlossansicht von Merseburg (Bildautor: Wolfgang Kubak), Verwendung mit freundlicher Genehmigung
 	durch die <a href="https://www.merseburg.de/de/pressefotos_/pressefotos-20001180.html">Pressestelle der Stadt
 		Merseburg
-	</a></p>
+	</a></p> -->
 
 <div class="content" class="container-fluid">
-	<section class="info" id="why-what">
+	<section class="info" id="general">
 		<div class="container flex">
 			<div class="text">
 				<h2 class="editable">Forschungsgruppe Neuropsychologie</h2>
@@ -191,29 +191,9 @@ zoom:
 	</section>
 
 
-	<section class="pad" id="postdocs">
+	<section class="pad" id="team">
 		<div class="container">
-			<h2 class="editable">Post Docs</h2>
-			<p class="editable"></p>
-			<p class="editable"></p>
-			<ul class="speakers">
-				{% for person in site.speakers_members %}
-				<li>
-					<div class="square-image"
-						style="background-image: url({% include relative-src.html src=person.image_path %})"></div>
-					<div class="name"><a target="_blank" href="{{ person.website }}">{{ person.name }}</a></div>
-					<div class="position">{{ person.position }}</div>
-					<div class="position">{{ person.blurb }}</div>
-				</li>
-				{% endfor %}
-			</ul>
-			</p>
-		</div>
-	</section>
-
-	<section class="pad" id="who">
-		<div class="container">
-			<h2 class="editable">PhD students</h2>
+			<h2 class="editable">Team</h2>
 			<ul class="staff">
 				{% for person in site.staff_members %}
 				<li>
@@ -231,10 +211,58 @@ zoom:
 		</div>
 	</section>
 
-	<section class="info" id="where-when">
+	<section class="info" id="interns">
 		<div class="container">
 			<div class="text">
-				<h2 class="editable">Location</h2>
+				<h2 class="editable">Abschlussarbeiten</h2>
+				<p class="editable"><a href="https://www.merseburg-radissonblu.com/de">Radisson Blu Hotel
+						Halle-Merseburg, Merseburg, Germany</a></p>
+			</div>
+		</div>
+		<div class="container">
+			<div class="text">
+				<h2 class="editable">Date</h2>
+				<p class="editable">Monday September 2<sup>nd</sup> - Wednesday September 4<sup>th</sup>, 2019.</p>
+			</div>
+		</div>
+	</section>
+
+	<section class="info" id="studies">
+		<div class="container">
+			<div class="text">
+				<h2 class="editable">Studienteilnahme</h2>
+				<p class="editable"><a href="https://www.merseburg-radissonblu.com/de">Radisson Blu Hotel
+						Halle-Merseburg, Merseburg, Germany</a></p>
+			</div>
+		</div>
+		<div class="container">
+			<div class="text">
+				<h2 class="editable">Date</h2>
+				<p class="editable">Monday September 2<sup>nd</sup> - Wednesday September 4<sup>th</sup>, 2019.</p>
+			</div>
+		</div>
+	</section>
+
+	<section class="info" id="press">
+		<div class="container">
+			<div class="text">
+				<h2 class="editable">Presse</h2>
+				<p class="editable"><a href="https://www.merseburg-radissonblu.com/de">Radisson Blu Hotel
+						Halle-Merseburg, Merseburg, Germany</a></p>
+			</div>
+		</div>
+		<div class="container">
+			<div class="text">
+				<h2 class="editable">Date</h2>
+				<p class="editable">Monday September 2<sup>nd</sup> - Wednesday September 4<sup>th</sup>, 2019.</p>
+			</div>
+		</div>
+	</section>
+
+	<section class="info" id="publications">
+		<div class="container">
+			<div class="text">
+				<h2 class="editable">Publikationen</h2>
 				<p class="editable"><a href="https://www.merseburg-radissonblu.com/de">Radisson Blu Hotel
 						Halle-Merseburg, Merseburg, Germany</a></p>
 			</div>
@@ -262,30 +290,23 @@ zoom:
     </div>
   </section>
  -->
-	<section class="logos" , id="logo">
+	<section class="logos" , id="funding">
 		<div class="container">
-			<div class="text">
-				<h2 class="editable">Supported by</h2>
-			</div>
-			<div class="image">
-				<a
-					href="https://www.uni-magdeburg.de/Forschung/Forschungsprofil/EU_Projekte/ESF+und+EFRE+Sachsen_Anhalt.print"><img
-						class="editable"
-						src=https://europa.sachsen-anhalt.de/fileadmin/Bibliothek/Politik_und_Verwaltung/StK/Europa/ESI-Fonds-Neu_2017/Bilder/Logos/ESF/ESF_rgb_print.jpg
-						alt="Funded by ESF" vspace=50 />
-
-					<img class="editable"
-						src=https://europa.sachsen-anhalt.de/fileadmin/Bibliothek/Politik_und_Verwaltung/StK/Europa/ESI-Fonds-Neu_2017/Bilder/Logos/ESF/ESF_hier.investiert.europa.in.d.zukunft_4c_print.jpg
-						alt="Hier investiert Europa in die Zukunft unseres Landes" /></a>
-			</div>
-
-			<!--		<div class="text">
-				<h2 class="editable">To contribute to</h2>
-			</div>
-			<div class="image">
-				<img class="editable" src=images/contribute-logo.png alt="Supported by" />
-			</div>
--->
+			<h2 class="editable">Funding</h2>
+			<ul class="staff">
+				{% for person in site.funding_members %}
+				<li>
+					<div class="square-image"
+						style="background-image: url({% include relative-src.html src=person.image_path %})"></div>
+					<div class="name"><a target="_blank" href="{{ person.website }}">{{ person.name }}</a></div>
+					<div class="position">{{ person.position }}</div>
+					<div class="position">{{ person.blurb }}</div>
+				</li>
+				{% endfor %}
+			</ul>
+			<!-- 			<p class="editable">
+					</p>
+		 -->
 		</div>
 	</section>
 

@@ -1,16 +1,23 @@
-- name: What is ABINEP?
-  link: "#why-what"
-- name: Program
-  link: "#program"
-- name: Invited Speakers
-  link: "#speakers"
-- name: Fellows
-  link: "#who"
-- name: Location and Date
-  link: "#where-when"
-- name: Contact
+- name: Neuropsychologie
+  link: "#general"
+- name: Forschung
+  link: "#research"
+- name: Klinik
+  link: "#clinics"
+- name: Team
+  link: "#team"
+- name: Abschlussarbeiten
+  link: "#interns"
+- name: Studienteilnahme
+  link: "#studies"
+- name: Presse
+  link: "#press"
+- name: Publikationen
+  link: "#publications"
+- name: Kontakt
   link: "#contact"
+- name: Funding
+  link: "#funding"
 - name: Impressum
   link: "#impressum"
-#- name: Achievements
-#  link: "#achievements"
+
