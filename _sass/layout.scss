@@ -158,10 +158,10 @@ blockquote:before {
 }
 
 .square-image-logo {
-	width: 200px;
-	height: 100px;  //#SR 200px;
+	width: 300px;
+	height: 200px;  //#SR 200px;
 	//#SR border-radius: 200px;
-	background-size:cover;
+	background-size:contain;
  	background-repeat:no-repeat;
 	margin: 0 auto;
 }
