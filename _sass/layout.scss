@@ -157,6 +157,15 @@ blockquote:before {
 	margin: 0 auto;
 }
 
+.square-image-logo {
+	width: 200px;
+	height: 100px;  //#SR 200px;
+	//#SR border-radius: 200px;
+	background-size:cover;
+ 	background-repeat:no-repeat;
+	margin: 0 auto;
+}
+
 .page {
 	margin-bottom: 0;
 	padding-bottom: 80px;
