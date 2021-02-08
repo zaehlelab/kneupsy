@@ -1,3 +1,3 @@
-# ABINEPosium 2019
+# Forschungsgruppe Neuropsychologie
 
-September 2nd - 4th, at Radisson Blu, Merseburg, Germany
+Homepage of the Forschungsgruppe Neuropsychologie
