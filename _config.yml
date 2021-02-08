@@ -39,9 +39,9 @@ exclude:
   - LICENCE
 
 collections:
-  staff_members:
+  funding:
     _hide_content: true
-  speakers_members:
+  staff_members:
     _hide_content: true
 
 paginate: 10
