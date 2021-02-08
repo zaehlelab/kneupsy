@@ -1,0 +1,214 @@
+---
+title: Home
+description: 2nd Annual International Symposium of the ABINEP Graduate School
+image: /images/Merseburg_Naturdenkmal_Platanen_am_Dom.jpg <!-- https://upload.wikimedia.org/wikipedia/commons/4/41/Merseburg%2CNaturdenkmal_Platanen_am_Dom.jpg M_H.DE [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)]-->
+bottom_image: /images/all-logo.png
+map:
+  latitude: 
+  longitude: 
+  address: 
+  zoom: 
+---
+
+<section class="hero" style="background-image: url(https://www.merseburg.de/de/datei/vorschau/2560x1440/id/32609,1055/tb_blick_auf_schloss_02.jpg?0=picture)">
+<!-- <section class="hero" style="background-image: url(https://www.hanse.org/bilder/hansestaedte/merseburg/Schlossblick_Floss06.JPG)"> -->
+<!-- <section class="hero" style="background-image: url(https://mediafiles.urlaubsguru.de/wp-content/uploads/2022/02/Dom-Schlossensemble-Merseburg.jpg)"> -->
+	<div class="inner-hero text-container">
+		<div class="hero-text-container">
+      <center>
+  			<h1 class="editable">2nd Annual International Symposium of the ABINEP Graduate School</h1>
+  			<p class="subtext editable"><b>September 2nd - 4th 2019, Merseburg</b></p>
+      </center>
+		</div>
+	</div>
+	<div class="learn-more">
+    <a href="#why-what">
+      <center><p class="subtext editable">Learn more</p>
+      <img src=images/arrow.gif>
+    </center></a></div>
+</section>
+<p class="editable">Schlossansicht von Merseburg (Bildautor: Wolfgang Kubak), Verwendung mit freundlicher Genehmigung durch die <a href="https://www.merseburg.de/de/pressefotos_/pressefotos-20001180.html">Pressestelle der Stadt Merseburg
+</a></p>
+
+<div class="content" class="container-fluid">
+	<section class="info" id="why-what">
+		<div class="container flex">
+			<div class="text">
+				<h2 class="editable">What is ABINEP?</h2>
+                    <p class="editable">
+					ABINEP stands for the international Graduate school (GS) on Analysis, Imaging,
+					and Modelling of Neuronal and Inflammatory Processes.
+                     </p>
+			        <p class="editable">
+					It is based on the two internationally recognized biomedical research
+					foci of the Otto-von-Guericke-University Magdeburg (OVGU), Neurosciences and Immunology.
+					ABINEP aims at fostering cutting edge research projects in rising sub-disciplines of these research areas,
+					which are currently supported by several German Research foundation (DFG)- and European Community (EU)-funded
+					collaborative projects in Magdeburg (including the DFG-funded Collaborative Research Centers SFBs 779 and 854
+					and associated graduate schools, as well as DFG TRRs 31 and 62).
+					The program includes scientists from the Medical Faculty/ University Hospital Magdeburg (MED)
+					and the Faculty of Natural Sciences (FNW) of the OVGU, the Leibniz Institute for Neurobiology (LIN)
+					and German Center for Neurodegenerative Diseases (DZNE), both located in Magdeburg,
+					the Helmholtz Centre of Infection Research in Braunschweig as well as international collaborators.
+					
+					To further strengthen the international interconnection of these research foci,
+					21 projects were defined to educate excellent international PhD student candidates in any of the 4 ABINEP topical modules:
+					<ol>
+					<li>Neuroinflammation: Inflammatory processes in neurodegeneration</li>
+					<li>Neurophysiology and Computational Modelling of Neuronal Networks</li>
+					<li>Immunosenescence: Infection and immunity in the context of aging</li>
+					<li>Human Brain Imaging for diagnosing neurocognitive disorders</li>
+					</ol>
+					</p>
+					<p class="editable">For more information, please see <a href="https://www.abinep.ovgu.de/">https://www.abinep.ovgu.de/</a></p>
+<!--
+                    <p class="editable">
+			        </p>
+				<h2 class="editable"></h2>
+			        <p class="editable">
+				</p>
+-->
+			</div>
+		</div>
+	</section>
+
+<section class="pad" id="program">
+		<div class="container">
+			<h2 class="editable">Program</h2>
+				<p class="editable"></p>
+		<p class="editable"></p>
+<!--
+		</p>
+			<ul>
+				<li></li>
+					<li></li>
+				<li></li>
+				<li></li>
+				<li></li>
+		</ul>
+		<p class="editable"> Else: </p>
+		<ul>
+			<li></li>
+			<li></li>
+		</ul>
+		</p> -->
+	</div>
+</section>
+
+  <section class="pad" id="speakers">
+		<div class="container">
+			<h2 class="editable">Invited Speakers</h2>
+				<p class="editable"></p>
+          <p class="editable"></p>
+		  <ul class="speakers">
+			{% for person in site.speakers_members %}
+				<li>
+					<div class="square-image" style="background-image: url({% include relative-src.html src=person.image_path %})"></div>
+					<div class="name"><a target="_blank" href="{{ person.website }}">{{ person.name }}</a></div>
+					<div class="position">{{ person.blurb }}</div>
+				</li>
+			{% endfor %}
+		</ul>
+		</p>
+    </div>
+  </section>
+
+	<section class="pad" id="who">
+		<div class="container">
+			<h2 class="editable">ABINEP Fellows</h2>
+			<ul class="staff">
+				{% for person in site.staff_members %}
+					<li>
+						<div class="square-image" style="background-image: url({% include relative-src.html src=person.image_path %})"></div>
+						<div class="name"><a target="_blank" href="{{ person.website }}">{{ person.name }}</a></div>
+						<div class="position">{{ person.blurb }}</div>
+					</li>
+				{% endfor %}
+			</ul>
+<!-- 			<p class="editable">
+			</p>
+ -->		</div>
+	</section>
+
+	<section class="info" id="where-when">
+		<div class="container">
+			<div class="text">
+				<h2 class="editable">Location</h2>
+				<p class="editable"><a href="https://www.merseburg-radissonblu.com/de">Radisson Blu Hotel Halle-Merseburg, Merseburg, Germany</a></p>
+			</div>
+		</div>
+		<div class="container">
+			<div class="text">
+				<h2 class="editable">Date</h2>
+				<p class="editable">Monday September 2<sup>nd</sup> - Wednesday September 4<sup>th</sup>, 2019.</p>
+			</div>
+		</div>
+	</section>
+
+	<section class="contact", id="contact">
+		<div class="container">
+			<h2 class="editable">Contact</h2>
+<!--		<p>stefan.repplinger [at] ovgu.de</p>  -->
+		<p>christiane.hedtmann [at] ovgu.de</p>
+    </div>
+  </section>
+
+<!--   <section class="achievements", id="achievements">
+		<div class="container">
+			<h2 class="editable">Main enhancements</h2>
+        <p><a href=""></a></p>
+    </div>
+  </section>
+ -->
+  <section class="logos", id="logo">
+		<div class="container">
+			<div class="text">
+				<h2 class="editable">Supported by</h2>
+			</div>
+			<div class="image">
+				<a href="https://www.uni-magdeburg.de/Forschung/Forschungsprofil/EU_Projekte/ESF+und+EFRE+Sachsen_Anhalt.print"><img class="editable" src=https://europa.sachsen-anhalt.de/fileadmin/Bibliothek/Politik_und_Verwaltung/StK/Europa/ESI-Fonds-Neu_2017/Bilder/Logos/ESF/ESF_rgb_print.jpg alt="Funded by ESF" vspace=50/>
+				
+				<img class="editable" src=https://europa.sachsen-anhalt.de/fileadmin/Bibliothek/Politik_und_Verwaltung/StK/Europa/ESI-Fonds-Neu_2017/Bilder/Logos/ESF/ESF_hier.investiert.europa.in.d.zukunft_4c_print.jpg alt="Hier investiert Europa in die Zukunft unseres Landes" /></a>
+			</div>
+
+<!--		<div class="text">
+				<h2 class="editable">To contribute to</h2>
+			</div>
+			<div class="image">
+				<img class="editable" src=images/contribute-logo.png alt="Supported by" />
+			</div>
+-->
+		</div>
+	</section>
+
+	<section class="pad", id="impressum">
+			<div class="container">
+				<div class="text">
+					<h2 class="editable">Impressum</h2>
+					<p class="editable">
+					Angaben gemäß § 5 TMG
+					Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV
+					</p>
+					<p class="editable">
+					GERMANY
+					Contact:
+					
+					E-Mail: 
+					</p>
+					<p class="editable">
+					<h3 class="editable">Datenschutzerklärung (DSGVO)</h3>
+					Auf dieser Webseite werden keine personenbezogenen Daten erhoben, gespeichert oder verarbeitet.
+					Es werden keine Cookies verwendet.
+					</p>
+					<p class="editable">
+					<h3 class="editable">Data Protection Policy (GDPR)</h3>
+					This website does not collect, store or process Personally Identifiable Information (PII). This website does not require the use of cookies.
+					<h3 class="editable">Verweis auf Dritte</h3>
+					Diese Website wird auf Github als Github Pages gehostet. Die Github Global Privacy Practices sind <a href="https://help.github.com/en/articles/global-privacy-practices">hier</a> hinterlegt.
+					<h3 class="editable">Third Party Inclusion</h3>
+					This website is hosted by Github using Github Pages. The Github Global Privacy Practices are available <a href="https://help.github.com/en/articles/global-privacy-practices">here</a>.
+					</p>
+				</div>
+			</div>
+	</section>
+</div>
