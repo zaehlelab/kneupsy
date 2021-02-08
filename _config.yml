@@ -1,23 +1,23 @@
 # ----
 # Site
 
-title: 2nd International Symposium of the ABINEP Graduate School
-url: "https://www.abinep.ovgu.de"
+title: Arbeitsgruppe Neuropsychologie
+url: "https://www.neuropsychologie.ovgu.de"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: ABINEP Symposium 2019
+description: Arbeitsgruppe Neuropsychologie
 author:
   name:
   email:
   twitter:
 social:
-  name: ABINEPosium2019
+  name: ArbeitsgruppeNeuropsychologie
   links:
-    - https://www.abinep.ovgu.de
+    - https://www.neuropsychologie.ovgu.de
 
 # -----
 # Build
@@ -83,5 +83,5 @@ social_icons:
 #  - RSS
 
 _comments:
-  description: ABINEP Symposium 2019
-  blurb: ABINEP Symposium 2019
+  description: Arbeitsgruppe Neuropsychologie
+  blurb: Arbeitsgruppe Neuropsychologie
