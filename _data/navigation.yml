@@ -14,8 +14,8 @@
   link: "#press"
 - name: Publikationen
   link: "#publications"
-- name: Kontakt
-  link: "#contact"
+# - name: Kontakt
+#   link: "#contact"
 - name: Funding
   link: "#funding"
 - name: Impressum
