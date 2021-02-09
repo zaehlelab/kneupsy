@@ -341,10 +341,10 @@ zoom:
 			<h2 class="editable">Funding</h2>
 			<ul class="funding">
 				{% for person in site.funding_members %}
-				<li>
-					<div class="square-image-logo"
-						style="background-image: url({% include relative-src.html src=person.image_path %})"><a
-							target="_blank" href="{{ person.website }}"></a></div>
+				<li><a target="_blank" href="{{ person.website }}">
+						<div class="square-image-logo"
+							style="background-image: url({% include relative-src.html src=person.image_path %})"></div>
+					</a>
 					<!-- <div class="name"><a target="_blank" href="{{ person.website }}">{{ person.name }}</a></div>
 					<div class="position">{{ person.position }}</div>
 					<div class="position">{{ person.blurb }}</div> -->
