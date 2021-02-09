@@ -12,8 +12,8 @@
   link: "#studies"
 - name: Presse
   link: "#press"
-# - name: Publikationen
-#   link: "#publications"
+- name: Publikationen
+  link: "#publications"
 # - name: Kontakt
 #   link: "#contact"
 - name: Funding
