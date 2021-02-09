@@ -39,7 +39,7 @@ exclude:
   - LICENCE
 
 collections:
-  funding_members:
+  alumni_members:
     _hide_content: true
   staff_members:
     _hide_content: true
