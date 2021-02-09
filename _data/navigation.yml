@@ -1,11 +1,11 @@
 - name: Neuropsychologie
   link: "#general"
-- name: Forschung
-  link: "#research"
-- name: Klinik
-  link: "#clinics"
 - name: Team
   link: "#team"
+- name: Forschung
+  link: "#research"
+# - name: Klinik
+#   link: "#clinics"
 - name: Publikationen
   link: "#publications"
 - name: Presse
