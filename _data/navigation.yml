@@ -14,10 +14,10 @@
   link: "#interns"
 - name: Studienteilnahme
   link: "#studies"
-# - name: Kontakt
-#   link: "#contact"
 - name: Funding
   link: "#funding"
+- name: Kontakt
+  link: "#contact"
 - name: Impressum
   link: "#impressum"
 - name: Datenschutz
