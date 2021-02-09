@@ -61,6 +61,20 @@ p, address, ul {
 	font-family: 'Lato', sans-serif;
 }
 
+details summary {
+	font-size: 1.38em;
+	margin-bottom: 20px;
+	font-weight: 300;
+	line-height: 1.6em;
+	font-family: 'Lato', sans-serif;
+    vertical-align: top;
+    background: #333;
+    color: #FFF;
+    border-radius: 3px;
+    padding: 5px 10px;
+    outline: none;
+}
+
 summary::-webkit-details-marker {
 	display: none
 }
