@@ -6,14 +6,14 @@
   link: "#clinics"
 - name: Team
   link: "#team"
+- name: Publikationen
+  link: "#publications"
+- name: Presse
+  link: "#press"
 - name: Abschlussarbeiten
   link: "#interns"
 - name: Studienteilnahme
   link: "#studies"
-- name: Presse
-  link: "#press"
-- name: Publikationen
-  link: "#publications"
 # - name: Kontakt
 #   link: "#contact"
 - name: Funding
