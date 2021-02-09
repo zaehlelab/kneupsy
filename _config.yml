@@ -39,6 +39,8 @@ exclude:
   - LICENCE
 
 collections:
+  funding_members:
+    _hide_content: true
   alumni_members:
     _hide_content: true
   staff_members:
