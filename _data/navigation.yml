@@ -19,7 +19,7 @@
 - name: Funding
   link: "./index.html/#funding"
 - name: Impressum
-  link: "/impressum.html/"
+  link: "/impressum/#impressum"
 - name: Datenschutz
-  link: "/impressum.html/"
+  link: "/impressum/#privacy"
 
