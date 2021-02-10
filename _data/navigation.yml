@@ -1,25 +1,25 @@
 - name: Neuropsychologie
-  link: "#general"
+  link: "./index.html/#general"
 - name: Team
-  link: "#team"
+  link: "./index.html/#team"
 - name: Forschung
-  link: "#research"
+  link: "./index.html/#research"
 # - name: Klinik
 #   link: "#clinics"
 - name: Publikationen
-  link: "#publications"
+  link: "./index.html/#publications"
 - name: Presse
-  link: "#press"
+  link: "./index.html/#press"
 - name: Abschlussarbeiten
-  link: "#interns"
+  link: "./index.html/#interns"
 - name: Studienteilnahme
-  link: "#studies"
-- name: Funding
-  link: "#funding"
+  link: "./index.html/#studies"
 - name: Kontakt
-  link: "#contact"
+  link: "./index.html/#contact"
+- name: Funding
+  link: "./index.html/#funding"
 - name: Impressum
-  link: "impressum.html#impressum"
+  link: "./impressum.html/#impressum"
 - name: Datenschutz
-  link: "impressum.html#privacy"
+  link: "./impressum.html/#privacy"
 
