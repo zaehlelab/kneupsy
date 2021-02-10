@@ -26,7 +26,7 @@ nav {
 
 	@media #{$mid-point} {
 		padding: 0 20px;
-		display: contents;  // display: inline;
+		display: contents;  //#SR display: inline;
 	}
 
 
@@ -39,7 +39,7 @@ nav {
 		@media #{$mid-point} {
 			display: inline;
 			border-bottom: 1px solid rgba(255,255,255,0);
-			color: rgba(200, 200, 200, 0.8);
+			color: rgba(200, 200, 200, 0.999);
 		}
 
 
