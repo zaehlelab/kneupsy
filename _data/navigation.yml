@@ -19,7 +19,7 @@
 - name: Kontakt
   link: "#contact"
 - name: Impressum
-  link: "#impressum"
+  link: "impressum.html#impressum"
 - name: Datenschutz
-  link: "#privacy"
+  link: "impressum.html#privacy"
 
