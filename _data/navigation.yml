@@ -1,7 +1,7 @@
 - name: Neuropsychologie
-  link: "./index.html#general"
+  link: "../index.html#general"
 - name: Team
-  link: "./index.html#team"
+  link: "../index.html#team"
 - name: Forschung
   link: "./index.html/#research"
 # - name: Klinik
@@ -19,7 +19,7 @@
 - name: Funding
   link: "./index.html/#funding"
 - name: Impressum
-  link: "./impressum.html#impressum"
+  link: "../impressum.html#impressum"
 - name: Datenschutz
-  link: "./impressum.html#privacy"
+  link: "../impressum.html#privacy"
 
