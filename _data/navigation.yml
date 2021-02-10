@@ -1,5 +1,5 @@
 - name: Neuropsychologie
-  link: "/#general"
+  link: "https://zaehlelab.org/#general"
 - name: Team
   link: "/#team"
 - name: Forschung
@@ -19,7 +19,7 @@
 - name: Funding
   link: "/index.html/#funding"
 - name: Impressum
-  link: "/impressum/#impressum"
+  link: "https://zaehlelab.org/impressum/#impressum"
 - name: Datenschutz
   link: "/impressum/#privacy"
 
