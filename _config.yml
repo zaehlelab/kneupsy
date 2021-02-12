@@ -11,10 +11,10 @@ google_maps_javascript_api_key:
 logo: /images/favicon.png
 tagline: Die Internetpräsenz der Forschungsgruppe Neuropsychologie des Universitätsklinikums Magdeburg.
 description: Die Forschungsgruppe Neuropsychologie unter der Leitung von PD Dr. Tino Zähle untersucht die Effekte non-invasiver und invasiver Elektrostimuation des menschlichen Gehirns.
-author: Stefan Repplinger
-  name:
+author:
+  name: Stefan Repplinger
   email:
-  twitter:
+  twitter: stfnrpplngr
 social:
   name: Forschungsgruppe Neuropsychologie
   links:
