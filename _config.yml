@@ -1,23 +1,24 @@
 # ----
 # Site
 
-title: Arbeitsgruppe Neuropsychologie
-url: "https://www.neuropsychologie.ovgu.de"
+title: Forschungsgruppe Neuropsychologie
+url: "https://zaehlelab.org"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /siteicon.png
-description: Arbeitsgruppe Neuropsychologie
-author:
+logo: /images/favicon.png
+tagline: Die Internetpräsenz der Forschungsgruppe Neuropsychologie des Universitätsklinikums Magdeburg.
+description: Die Forschungsgruppe Neuropsychologie unter der Leitung von PD Dr. Tino Zähle untersucht die Effekte non-invasiver und invasiver Elektrostimuation des menschlichen Gehirns.
+author: Stefan Repplinger
   name:
   email:
   twitter:
 social:
-  name: ArbeitsgruppeNeuropsychologie
+  name: Forschungsgruppe Neuropsychologie
   links:
-    - https://www.neuropsychologie.ovgu.de
+    - https://zaehlelab.org
 
 # -----
 # Build
@@ -85,5 +86,9 @@ social_icons:
 #  - RSS
 
 _comments:
-  description: Arbeitsgruppe Neuropsychologie
-  blurb: Arbeitsgruppe Neuropsychologie
+  description: Forschungsgruppe Neuropsychologie
+  blurb: Forschungsgruppe Neuropsychologie
+
+
+plugins:
+  - jekyll-seo-tag
