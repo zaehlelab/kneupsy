@@ -4,4 +4,5 @@ position:
 image_path:
 website:
 blurb:
+contact:
 ---

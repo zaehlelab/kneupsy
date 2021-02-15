@@ -89,7 +89,9 @@ zoom:
 					<div class="name"><a target="_blank" href="{{ person.website }}">{{ person.name }}</a></div>
 					<div class="position">
 						<details>
-							<summary class="position">{{ person.position }}</summary>{{ person.blurb }}
+							<summary class="position">{{ person.position }}</summary>
+							{{ person.contact }}<br>
+							{{ person.blurb }}
 						</details>
 					</div>
 					<!-- <div class="position">{{ person.blurb }}</div> -->
