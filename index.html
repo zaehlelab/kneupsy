@@ -90,8 +90,10 @@ zoom:
 					<div class="position">
 						<details>
 							<summary class="position">{{ person.position }}</summary>
-							<a href="mailto:{{ person.contact }}">{{ person.contact }}</a><br>
-							{{ person.blurb }}
+							<p class="editable">
+								<a href="mailto:{{ person.contact }}" class="contact">{{ person.contact }}</a><br>
+								{{ person.blurb }}
+							</p>
 						</details>
 					</div>
 					<!-- <div class="position">{{ person.blurb }}</div> -->
