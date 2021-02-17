@@ -16,10 +16,10 @@
 	.contact-details {
 		font-size: 1.38em;
 		margin-top: 60px;
-		@include flex(1, 1, 50%);
+		@include flex(1, 1, 100%);
 
 		@media #{$tablet} {
-			@include flex(1, 1, 100%);
+			@include flex(1, 1, 50%);
 		}
 
 	}
