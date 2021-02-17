@@ -1,7 +1,7 @@
 .contact-box {
 	margin: 0 auto;
 	@extend %flexbox;
-	@include flex-wrap(wrap)
+	@include flex-wrap(wrap);
 
 	form {
 		width: 100%
