@@ -3,6 +3,7 @@
 .contact-box {
 	margin: 0 auto;
 	@extend %flexbox;
+	@include flex-flow(wrap);
 
 	form {
 		width: 100%
@@ -18,12 +19,12 @@
 
 		@media #{$tablet} {
 			@include flex(1, 1, 100%);
-			@include flex-flow(column wrap);
+			flex-direction: column;
 		}
 
 		@media #{$desktop} {
 			@include flex(1, 1, 50%);
-			@include flex-flow(row wrap);
+			flex-direction: row;
 		}
 	}
 
