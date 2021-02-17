@@ -13,19 +13,17 @@
 		margin: 0;
 	}
 
-	.contact-form, .contact-details  {
-		@media #{$tablet} {
-			@include flex(1, 1, 45%);
-		}
-
-		@media #{$desktop} {
-			@include flex(1, 1, 45%);
-		}
-	}
-
 	.contact-details {
 		font-size: 1.38em;
 		margin-top: 60px;
+
+		@media #{$tablet} {
+			@include flex(1, 1, auto);
+		}
+
+		@media #{$desktop} {
+			@include flex(1, 1, 50%);
+		}
 	}
 
 	.google-maps {
