@@ -19,6 +19,7 @@
 
 		@media #{$tablet} {
 			@include flex(1, 1, 100%);
+			@include flex-flow(column);
 		}
 
 		@media #{$desktop} {
