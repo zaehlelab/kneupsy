@@ -3,7 +3,7 @@
 .contact-box {
 	margin: 0 auto;
 	@extend %flexbox;
-	flex-wrap: wrap;
+	@include flex-flow(row wrap);
 
 	form {
 		width: 100%
@@ -19,12 +19,10 @@
 
 		@media #{$tablet} {
 			@include flex(1, 1, 100%);
-			flex-direction: column;
 		}
 
 		@media #{$desktop} {
 			@include flex(1, 1, 50%);
-			flex-direction: row;
 		}
 	}
 
@@ -40,5 +38,13 @@
 		left: 0;
 		width: 100% !important;
 		height: 100% !important;
+	}
+}
+
+
+/* Responsive layout - makes a one column layout instead of a two-column layout */
+@media #{$tablet} {
+	.contact-box {
+		@include flex-flow(column wrap);
 	}
 }
