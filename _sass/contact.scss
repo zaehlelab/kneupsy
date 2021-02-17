@@ -15,11 +15,11 @@
 
 	.contact-form, .contact-details  {
 		@media #{$tablet} {
-			@include flex(1, 1, 50%);
+			@include flex(1, 1, 45%);
 		}
 
 		@media #{$desktop} {
-			@include flex(1, 1, 50%);
+			@include flex(1, 1, 45%);
 		}
 	}
 
