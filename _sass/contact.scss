@@ -5,6 +5,8 @@
 
 .contact-box {
 	margin: 0 auto;
+	@extend %flexbox;
+	@include flex-flow(wrap);
 
 	form {
 		width: 100%
@@ -15,9 +17,12 @@
 	}
 
 	.contact-form, .contact-details  {
+		@media #{$tablet} {
+			@include flex(1, 1, 50%);
+		}
+
 		@media #{$desktop} {
-			-webkit-flex: 1;
-			flex: 1;
+			@include flex(1, 1, 50%);
 		}
 	}
 
@@ -31,21 +36,14 @@
 	padding: 0;
 	margin: 0;
 	list-style: none;
-	@extend %flexbox;
-	@include flex-flow(wrap);
+
 	text-align: center;
 	li {
 		padding: 30px 20px;
 		box-sizing: border-box;
 		width: 100%;
 
-		@media #{$tablet} {
-			@include flex(1, 1, 50%);
-		}
 
-		@media #{$desktop} {
-			@include flex(1, 1, 50%);
-		}
 
 	}
 }
