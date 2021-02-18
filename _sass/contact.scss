@@ -1,5 +1,3 @@
-
-
 .contact-box {
 	margin: 0 auto;
 	@extend %flexbox;
@@ -15,7 +13,7 @@
 
 	.contact-details {
 		font-size: 1.38em;
-		margin-top: 60px;
+		// margin-top: 60px;
 		@include flex(1, 1, 100%);
 
 		@media #{$tablet} {
