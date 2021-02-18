@@ -1,23 +1,23 @@
 - name: Neuropsychologie
-  link: "https://zaehlelab.org/#general"
+  link: "#general"
 - name: Team
-  link: "/#team"
+  link: "#team"
 - name: Forschung
-  link: "/index.html/#research"
+  link: "#research"
 # - name: Klinik
 #   link: "#clinics"
 - name: Publikationen
-  link: "/index.html/#publications"
+  link: "#publications"
 - name: Presse
-  link: "/index.html/#press"
+  link: "#press"
 - name: Abschlussarbeiten
-  link: "/index.html/#interns"
+  link: "#interns"
 - name: Studienteilnahme
-  link: "/index.html/#studies"
+  link: "#studies"
 - name: Kontakt
-  link: "/index.html/#contact"
+  link: "#contact"
 - name: Funding
-  link: "/index.html/#funding"
+  link: "#funding"
 - name: Impressum
   link: "https://zaehlelab.org/impressum/#impressum"
 - name: Datenschutz
