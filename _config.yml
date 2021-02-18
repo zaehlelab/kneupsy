@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Forschungsgruppe Neuropsychologie - Zaehlelab
+title: Forschungsgruppe Neuropsychologie - Zählelab
 url: https://zaehlelab.org
 baseurl: https://zaehlelab.org
 google_analytics_key:
@@ -9,8 +9,8 @@ google_maps_javascript_api_key:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /images/favicon.png
-tagline: Die Internetpräsenz der Forschungsgruppe Neuropsychologie (Zaehlelab) an der Klinik für Neurologie des Universitätsklinikums Magdeburg.
-description: Die Forschungsgruppe Neuropsychologie (Zaehlelab) unter der Leitung von PD Dr. Tino Zähle untersucht die Effekte non-invasiver und invasiver Elektrostimuation des menschlichen Gehirns.
+tagline: Die Internetpräsenz der Forschungsgruppe Neuropsychologie (Zählelab) an der Klinik für Neurologie des Universitätsklinikums Magdeburg.
+description: Die Forschungsgruppe Neuropsychologie (Zählelab) unter der Leitung von PD Dr. Tino Zähle untersucht die Effekte non-invasiver und invasiver Elektrostimuation des menschlichen Gehirns.
 author:
   name: Stefan Repplinger
   email:
