@@ -1,7 +1,6 @@
- https://www.tutorialspoint.com/css/css_animation_fade_in.htm
+$brand-color: #6ba1f3;
 
-
-@keyframes fadeIn {
-   0% {opacity: 0;}
-   100% {opacity: 1;}
-}
+// Breakpoints
+$tablet: "(min-width: 450px)";
+$mid-point: "(min-width: 620px)";
+$desktop: "(min-width: 768px)";
