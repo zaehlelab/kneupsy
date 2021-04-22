@@ -3,7 +3,8 @@
 
 title: Forschungsgruppe Neuropsychologie - Zählelab
 url: https://zaehlelab.org
-baseurl: https://zaehlelab.org
+# baseurl: https://zaehlelab.org
+baseurl: /zaehlelab.org
 google_analytics_key:
 google_maps_javascript_api_key:
 
@@ -32,6 +33,7 @@ gems:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-archives
+  - github-pages
 
 exclude:
   - Gemfile
@@ -90,5 +92,5 @@ _comments:
   blurb: Forschungsgruppe Neuropsychologie - Zaehlelab
 
 
-plugins:
+plugins_dir:
   - jekyll-seo-tag

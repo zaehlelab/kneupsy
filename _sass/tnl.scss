@@ -94,7 +94,7 @@ body{
 	background: #F5EEC9;
 }
 
-.content1{
+.content_tnl{
 	width: 100%;
 	max-width: 1142px;
 	margin: 0 auto;
@@ -157,7 +157,7 @@ ul a span{
 	margin-bottom: 25px;
 }
 
-.director > li > a{
+.organization > li > a{
 	width: 50%;
 	margin: 0 auto 0px auto;
 }
@@ -169,19 +169,19 @@ ul a span{
 	height: 130px;
 	background: red;
 	border-left: 4px solid #fff;
-	left: 45.45%;
+	left: 50%;
 	position: relative;
 }
 
 .subdirector,
-.departments{
+.employees{
 	position: absolute;
 	width: 100%;
 }
 
 .subdirector > li:first-child,
-.departments > li:first-child{
-	width: 18.59894921190893%;
+.employees > li:first-child{
+	width: auto;
 	height: 64px;
 	margin: 0 auto 92px auto;
 	padding-top: 25px;
@@ -190,19 +190,19 @@ ul a span{
 }
 
 .subdirector > li:first-child{
-	float: right;
-	right: 27.2%;
+	float: left;
+	left: 25%;
 	border-left: 4px solid white;
 }
 
-.departments > li:first-child{
+.employees > li:first-child{
 	float: left;
 	left: 27.2%;
 	border-right: 4px solid white;
 }
 
 .subdirector > li:first-child a,
-.departments > li:first-child a{
+.employees > li:first-child a{
 	width: 100%;
 }
 
@@ -212,7 +212,7 @@ ul a span{
 
 @media all and (max-width: 767px){
 	.subdirector > li:first-child,
-	.departments > li:first-child{
+	.employees > li:first-child{
 		width: 40%;
 	}
 
@@ -225,24 +225,24 @@ ul a span{
 		left: 49.8%;
 	}
 
-	.departments > li:first-child{
+	.employees > li:first-child{
 		left: 10%;
 		margin-left: 2px;
 	}
 }
 
 
-.departments > li:first-child a{
+.employees > li:first-child a{
 	right: 25px;
 }
 
-.department:first-child,
-.departments li:nth-child(2){
+.employees:first-child,
+.employees li:nth-child(2){
 	margin-left: 0;
 	clear: left;
 }
 
-.departments:after{
+.employees:after{
 	content: "";
 	display: block;
 	position: absolute;
@@ -257,7 +257,7 @@ ul a span{
 }
 
 @media all and (max-width: 767px){
-	.departments:after{
+	.employees:after{
 		border-right: none;
 		left: 0;
 		width: 49.8%;
@@ -265,13 +265,13 @@ ul a span{
 }
 
 @media all and (min-width: 768px){
-	.department:first-child:before,
-   .department:last-child:before{
+	.employee:first-child:before,
+   .employee:last-child:before{
     border:none;
   }
 }
 
-.department:before{
+.employee:before{
 	content: "";
 	display: block;
 	position: absolute;
@@ -284,7 +284,7 @@ ul a span{
 	margin-left: -4px;
 }
 
-.department{
+.employee{
 	border-left: 4px solid #fff;
 	width: 18.59894921190893%;
 	float: left;
@@ -292,18 +292,18 @@ ul a span{
 	margin-bottom: 60px;
 }
 
-.lt-ie8 .department{
+.lt-ie8 .employee{
 	width: 18.25%;
 }
 
 @media all and (max-width: 767px){
-	.department{
+	.employee{
 		float: none;
 		width: 100%;
 		margin-left: 0;
 	}
 
-	.department:before{
+	.employee:before{
 		content: "";
 		display: block;
 		position: absolute;
@@ -316,32 +316,32 @@ ul a span{
 		margin-left: -4px;
 	}
 
-	.department:nth-child(2):before{
+	.employee:nth-child(2):before{
 		display: none;
 	}
 }
 
-.department > a{
+.employee > a{
 	margin: 0 0 -26px -4px;
 	z-index: 1;
 }
 
-.department > a:hover{
+.employee > a:hover{
 	height: 80px;
 }
 
-.department > ul{
+.employee > ul{
 	margin-top: 0px;
 	margin-bottom: 0px;
 }
 
-.department li{
+.employee li{
 	padding-left: 25px;
 	border-bottom: 4px solid #fff;
 	height: 80px;
 }
 
-.department li a{
+.employee li a{
 	background: #fff;
 	top: 48px;
 	position: absolute;
@@ -360,7 +360,7 @@ ul a span{
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#40000000', endColorstr='#00000000',GradientType=1 );
 }
 
-.department li a:hover{
+.employee li a:hover{
 	box-shadow: 8px 8px 9px -4px rgba(0,0,0,0.1);
 	height: 80px;
 	width: 95%;
@@ -368,9 +368,9 @@ ul a span{
 	background-image: none!important;
 }
 
-/* Department/ section colors */
-.department.dep-a a{ background: #FFD600; }
-.department.dep-b a{ background: #AAD4E7; }
-.department.dep-c a{ background: #FDB0FD; }
-.department.dep-d a{ background: #A3A2A2; }
-.department.dep-e a{ background: #f0f0f0; }
+/* employee/ section colors */
+.employee.dep-a a{ background: #FFD600; }
+.employee.dep-b a{ background: #AAD4E7; }
+.employee.dep-c a{ background: #FDB0FD; }
+.employee.dep-d a{ background: #A3A2A2; }
+.employee.dep-e a{ background: #f0f0f0; }
