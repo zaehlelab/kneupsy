@@ -5,8 +5,9 @@
 	//#SR min-height: 550px;
 	background-color: #333;
 	background-repeat: no-repeat;
-	background-size: cover;
-	background-position: center center;
+	background-size: contain;
+	background-position: top;
+	background-attachment: fixed;
 
 	&:before {
 		content: "";
@@ -17,6 +18,7 @@
 		right: 0;
 		height: 300px;
 }
+
 
 	p {
 		color: #fff;
@@ -33,8 +35,8 @@
 		text-align: left;
 		margin-top: 150px;  //#SR
 
-		h1, h2, p, .button {
-			text-shadow: 1px 1px 1px rgba(0,0,0,.8);
+		h1, h2, h3, p, .button {
+			text-shadow: 1px 1px 10px rgba(0, 0, 0, 1);
 		}
 	}
 
