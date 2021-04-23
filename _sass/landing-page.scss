@@ -1,13 +1,33 @@
 .hero {
 	color: #ffffff;
 	text-align: center;
-	height: 75vh;  //#SR height: 100vh;
+	// height: 75vh;  //#SR height: 100vh;
 	//#SR min-height: 550px;
-	background-color: #333;
+	background-color: #fff;
 	background-repeat: no-repeat;
 	background-size: contain;
 	background-position: top;
 	background-attachment: fixed;
+
+	@media #{$tablet} {
+		// background-size: cover;
+	}
+
+	@media #{$mid-point} {
+		height: 30vh;
+		// background-size: contain;
+	}
+
+	@media #{$desktop} {
+		height: 30vh;
+		// background-size: contain;
+	}
+
+	@media #{$desktop_large} {
+		height: 75vh;
+		// background-size: contain;
+	}
+
 
 	&:before {
 		content: "";
