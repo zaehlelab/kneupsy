@@ -19,7 +19,7 @@
 - name: Funding
   link: "#funding"
 - name: Impressum
-  link: "https://zaehlelab.org/impressum/#impressum"
+  link: "/impressum/#impressum"
 - name: Datenschutz
   link: "/impressum/#privacy"
 
