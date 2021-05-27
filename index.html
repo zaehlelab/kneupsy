@@ -1,7 +1,7 @@
 ---
 title: Forschungsgruppe Neuropsychologie Magdeburg - Zählelab - PD Dr. Tino Zähle
-description: Die Forschungsgruppe Neuropsychologie (Zählelab) des Otto-von-Guericke-Universitätsklinikums für
-Neurologie Magdeburg unter der Leitung von PD Dr. Tino Zähle untersucht non-invasive Verfahren der Hirnstimulation.
+description: Die Forschungsgruppe Neuropsychologie (Zählelab) des Otto-von-Guericke-Universitätsklinikums für Neurologie
+Magdeburg unter der Leitung von PD Dr. Tino Zähle untersucht non-invasive Verfahren der Hirnstimulation.
 image: images/favicon.png
 bottom_image: /images/all-logo.png
 map: https://goo.gl/maps/uxLHdTGwgho2AscT8
@@ -291,11 +291,22 @@ zoom:
 		<div class="container">
 			<div class="text">
 				<h2 class="editable">Abschlussarbeiten</h2>
-				<p class="editable">Wir bieten als Forschungsgruppe fortlaufend die Möglichkeit für Studierende der
+				<p class="editable">Wir bieten als Forschungsgruppe fortlaufend die Möglichkeit für
+					Studierende der
 					Psychologie, Neurowissenschaften,
 					Biosystemtechnik, Philosophie-Neurowissenschaften-Kognition und Medizin (sowie verwandter Fächer)
 					Bachelor-, Master- als
 					auch Medizinische Doktorarbeiten zu schreiben.
+				<details>
+					<summary>Offene Themen</summary>
+					{% capture my_include %}{% include abschlussarbeiten.md %}{% endcapture %}
+					{{ my_include | markdownify }}
+				</details>
+				<details>
+					<summary>Frühere Jahre</summary>
+					{% capture my_include %}{% include abschlussarbeiten_past.md %}{% endcapture %}
+					{{ my_include | markdownify }}
+				</details>
 				</p>
 			</div>
 		</div>

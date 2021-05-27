@@ -23,6 +23,7 @@ social:
 # -----
 # Build
 highlighter: rouge
+markdown: kramdown
 
 permalink: pretty
 

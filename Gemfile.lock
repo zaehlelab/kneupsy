@@ -81,6 +81,7 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-seo-tag
   jekyll-sitemap
+  kramdown
   rouge
 
 BUNDLED WITH
