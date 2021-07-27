@@ -1,0 +1,50 @@
+// newsticker
+// https://whatyousee.ch/blog/news-ticker/
+.newsticker{
+	@-webkit-keyframes hjk-ticker {
+		0% { -webkit-transform: translateX(0); transform: translateX(0); }
+		100% { -webkit-transform: translateX(-100%); transform: translateX(-100%); }
+	}
+	@keyframes hjk-ticker {
+		0% { -webkit-transform: translateX(0); transform: translateX(0); }
+		100% { -webkit-transform: translateX(-100%); transform: translateX(-100%); }
+	}
+	.hjk-ticker-container{
+		width: 100%;
+		overflow: hidden;
+		border-top: 1px solid #e6e6e6;
+		border-bottom: 1px solid #e6e6e6;
+	}
+	.hjk-ticker-wrap {
+		-webkit-box-sizing: content-box;
+				box-sizing: content-box;
+		width: 100%;
+		padding-left: 100%;
+		padding-top: 5px;
+		padding-bottom: 5px;
+		background-color: #f5f5f7;
+	}
+	.hjk-ticker-move {
+		display: inline-block;
+		white-space: nowrap;
+		padding-right: 100%;
+		-webkit-animation-iteration-count: infinite;
+				animation-iteration-count: infinite;
+		-webkit-animation-timing-function: linear;
+				animation-timing-function: linear;
+		-webkit-animation-name: hjk-ticker;
+				animation-name: hjk-ticker;
+		-webkit-animation-duration: 20s;
+				animation-duration: 20s;
+	}
+	.hjk-ticker-move:hover{
+		-webkit-animation-play-state: paused;
+				animation-play-state: paused;
+	}
+	.hjk-ticker-item{
+		display: inline-block;
+		padding: 0 2rem;
+		font-family: 'Lato';
+		color: red;
+	}
+}
