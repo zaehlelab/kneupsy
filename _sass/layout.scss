@@ -21,7 +21,7 @@ section {
 }
 
 .pad {
-	padding: 60px 0;  //#SR
+	padding: 0 0;  //#SR
 }
 
 header {
@@ -102,10 +102,10 @@ header {
 }
 
 .info {
-	padding: 0 0 50px 0;  //#SR
+	padding: 0 0 5vh 0;  //#SR
 
 	&:first-child {
-		padding-top: 100px;
+		padding-top: 5vh;
 	}
 }
 
