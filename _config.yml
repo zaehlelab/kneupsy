@@ -20,6 +20,8 @@ social:
   links:
     - https://zaehlelab.org
 
+languages: ["en", "de"]
+
 # -----
 # Build
 highlighter: rouge
@@ -94,3 +96,4 @@ _comments:
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-multiple-languages-plugin
