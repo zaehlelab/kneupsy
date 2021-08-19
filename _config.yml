@@ -96,4 +96,4 @@ _comments:
 
 plugins:
   - jekyll-seo-tag
-  - jekyll-multiple-languages-plugin
+  #- jekyll-multiple-languages-plugin
