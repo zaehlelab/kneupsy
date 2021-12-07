@@ -1,5 +1,6 @@
-- name: Neuropsychologie
-  link: "#general"
+# Fuer die Stellenangebote musste ich den Hauptpunkt vorübergehend auskommentieren um keine Änderungen am Layout des Menüs vornehmen zu müssen
+# - name: Neuropsychologie
+#   link: "#general"
 - name: Team
   link: "#team"
 - name: Forschung
@@ -10,6 +11,8 @@
   link: "#publications"
 - name: Presse
   link: "#press"
+- name: Stellenangebote
+  link: "#offers"
 - name: Abschlussarbeiten
   link: "#interns"
 - name: Studienteilnahme
