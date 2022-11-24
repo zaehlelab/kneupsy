@@ -1,5 +1,5 @@
 ---
-name: PD Dr. Tino Zähle
+name: Prof. Dr. Tino Zähle
 position: Arbeitsgruppenleiter
 image_path: https://zaehlelab.org/images/DSC_8312_TZ.png
 website: www.neuropsychologie.ovgu.de
