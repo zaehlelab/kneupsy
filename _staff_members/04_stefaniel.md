@@ -1,5 +1,5 @@
 ---
-name: M. Sc. Stefanie Linnhoff
+name: Dr. rer. nat. Stefanie Linnhoff
 position: Wissenschaftliche Mitarbeiterin
 image_path: https://zaehlelab.org/images/SL.jpg
 website:
