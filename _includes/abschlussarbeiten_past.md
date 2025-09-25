@@ -1,5 +1,6 @@
 | Thema | Alumni | Jahr | Abschluss |
 | :----: | :----: | :----: | :----: |
+| Zusammenhang von Kindheitstraumata und Daueraufmerksamkeit im Erwachsenenalter: Eine korrelative Analyse | Eicca Berentz | 2025 | BSc Psychologie | 
 | Einflüsse transkutaner Vagusnervstimulation und transkranieller Random Noise Stimulation auf die selektive Aufmerksamkeit | Ulrike Geyer | 2022 | Dr. med.  |
 | Transkutane Vagusnervstimulation (tVNS) und die Dynamik visueller bistabiler Wahrnehmung | Lisa Maria Böhrer | 2022 | Dr. med.  |
 | The Post-Covid Condition (Long Covid) with emphasis on neurological and neuropsychiatric aspects | Lilli Köhler | 2022 | BSc Psychologie |
