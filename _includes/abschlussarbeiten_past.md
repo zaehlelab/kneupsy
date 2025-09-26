@@ -4,7 +4,9 @@
 | Evaluating the Eficacy of Transcranial Temporal Interference (tTIS) in Humans | Carsten Thiele | 2025 | Dr. rer. nat. |
 | Transcutaneous auricular vagus nerve stimulation: New Vistas in assessing the consequences and underlying principles | Christian Wienke | 2024 | Dr. rer. nat. |
 | Can effectiveness be lost to preciseness? - Modulation der auditiven Verarbeitung durch HD-tDCS | Johanna Zinke | 2024 | Dr. med. |
-| Untersuchung der eExpliziten Emotionswahrnehmung bei Parkinson Patienten während einer Facial Feedback Modulation | Laura Polotzek | 2024 | Dr. med. |
+| Untersuchung der Expliziten Emotionswahrnehmung bei Parkinson Patienten während einer Facial Feedback Modulation | Laura Polotzek | 2024 | Dr. med. |
+| Testing the limits: Bestimmung von Schmerzschwellen und somatosensorischen Fühlschwellen bei hochfrequenter Elektrostimulation | Cornelius Tamm | 2024 | MSc Psychologie |
+| Einfluss der transkraniellen Temporal Interference Stimulation auf motorische Beta-Aktivität und Motorschwellen | Johanne Nölle | 2024 | MSc Psychologie |
 | Modulation of attentional performance by deep brain stimulation of the pedunculopontine nucleus and of the substantia nigra pars reticulata in Parkinson’s disease. | Julia Thein | 2023 | Dr. rer. nat. |
 | How to see the invisible? An objective approach to cognitive fatigue diagnosis and treatment in people with multiple sclerosis. | Stefanie Linnhoff | 2023| Dr. rer. nat. |
 | Untersuchung der Rolle des humanen Kleinhirns in der Verarbeitung zeitlicher Informationen mittels transkranieller Gleichstromstimulation (tDCS). | Astrid Maria Husemann | 2023 | Dr. med. |
