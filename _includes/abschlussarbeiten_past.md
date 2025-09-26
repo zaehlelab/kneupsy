@@ -1,6 +1,13 @@
 | Thema | Alumni | Jahr | Abschluss |
 | :----: | :----: | :----: | :----: |
 | Zusammenhang von Kindheitstraumata und Daueraufmerksamkeit im Erwachsenenalter: Eine korrelative Analyse | Eicca Berentz | 2025 | BSc Psychologie | 
+| Evaluating the Eficacy of Transcranial Temporal Interference (tTIS) in Humans | Carsten Thiele | 2025 | Dr. rer. nat. |
+| Transcutaneous auricular vagus nerve stimulation: New Vistas in assessing the consequences and underlying principles | Christian Wienke | 2024 | Dr. rer. nat. |
+| Can effectiveness be lost to preciseness? - Modulation der auditiven Verarbeitung durch HD-tDCS | Johanna Zinke | 2024 | Dr. med. |
+| Untersuchung der eExpliziten Emotionswahrnehmung bei Parkinson Patienten während einer Facial Feedback Modulation | Laura Polotzek | 2024 | Dr. med. |
+| Modulation of attentional performance by deep brain stimulation of the pedunculopontine nucleus and of the substantia nigra pars reticulata in Parkinson’s disease. | Julia Thein | 2023 | Dr. rer. nat. |
+| How to see the invisible? An objective approach to cognitive fatigue diagnosis and treatment in people with multiple sclerosis. | Stefanie Linnhoff | 2023| Dr. rer. nat. |
+| Untersuchung der Rolle des humanen Kleinhirns in der Verarbeitung zeitlicher Informationen mittels transkranieller Gleichstromstimulation (tDCS). | AStrid Maria Husemann | 2023 | Dr. med. |
 | Einflüsse transkutaner Vagusnervstimulation und transkranieller Random Noise Stimulation auf die selektive Aufmerksamkeit | Ulrike Geyer | 2022 | Dr. med.  |
 | Transkutane Vagusnervstimulation (tVNS) und die Dynamik visueller bistabiler Wahrnehmung | Lisa Maria Böhrer | 2022 | Dr. med.  |
 | The Post-Covid Condition (Long Covid) with emphasis on neurological and neuropsychiatric aspects | Lilli Köhler | 2022 | BSc Psychologie |
@@ -20,7 +27,7 @@
 | Investigating the relationship between age, speech ability, and the individual gamma frequency in the auditory cortex in children and adolescents | Steffen Riemann | 2020 | MSc Psychologie |
 | Langzeit-Outcome von Parkinson-Patienten mit chronischer bilateraler tiefer Hirnstimulation im Ncl. Subthalamicus in Bezug auf Kognition, Motorik, Lebensqualität und Affekt | Lisa Brigitte Calmbach | 2020 | Dr. med.  (Reviewer) |
 | Beeinträchtigungen im unerwarteten Spätabruf nach 24 Stunden, der Olfaktion und der subjektiven Schlafqualität als Korrelat potentieller Vorstufen der Alzheimer-Demenz. | Viktor Kunz | 2020 | Dr. med. (Reviewer) |
-| The impact of preceding and immediate valence signals on response selection in cognitive tasks | Vincent Hoofs | 2019 | PhD (Exterer Reviewer für die Universität Ghent) |
+| The impact of preceding and immediate valence signals on response selection in cognitive tasks | Vincent Hoofs | 2019 | PhD (Externer Reviewer für die Universität Ghent) |
 | The Neuropsychology of transcutaneous Vagus Nerve Stimulation | Marius Keute | 2019 | Dr. rer. nat. |
 | Cognitive and emotional effects of Deep Brain Stimulation of the Subthalamic Nucleus in patients with Parkinson´s disease | Caroline Wagenbreth | 2019 | Dr. rer. nat. |
 | Finding the Sweet-Spot: Online tDCS Studie zur Modulation der auditiven Mismatch Negativity mittels Variation der Stimulationsintensität im MEG | Carsten Thiele | 2019 | MSc Psychologie |
