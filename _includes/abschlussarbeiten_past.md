@@ -7,7 +7,7 @@
 | Untersuchung der eExpliziten Emotionswahrnehmung bei Parkinson Patienten während einer Facial Feedback Modulation | Laura Polotzek | 2024 | Dr. med. |
 | Modulation of attentional performance by deep brain stimulation of the pedunculopontine nucleus and of the substantia nigra pars reticulata in Parkinson’s disease. | Julia Thein | 2023 | Dr. rer. nat. |
 | How to see the invisible? An objective approach to cognitive fatigue diagnosis and treatment in people with multiple sclerosis. | Stefanie Linnhoff | 2023| Dr. rer. nat. |
-| Untersuchung der Rolle des humanen Kleinhirns in der Verarbeitung zeitlicher Informationen mittels transkranieller Gleichstromstimulation (tDCS). | AStrid Maria Husemann | 2023 | Dr. med. |
+| Untersuchung der Rolle des humanen Kleinhirns in der Verarbeitung zeitlicher Informationen mittels transkranieller Gleichstromstimulation (tDCS). | Astrid Maria Husemann | 2023 | Dr. med. |
 | Einflüsse transkutaner Vagusnervstimulation und transkranieller Random Noise Stimulation auf die selektive Aufmerksamkeit | Ulrike Geyer | 2022 | Dr. med.  |
 | Transkutane Vagusnervstimulation (tVNS) und die Dynamik visueller bistabiler Wahrnehmung | Lisa Maria Böhrer | 2022 | Dr. med.  |
 | The Post-Covid Condition (Long Covid) with emphasis on neurological and neuropsychiatric aspects | Lilli Köhler | 2022 | BSc Psychologie |
