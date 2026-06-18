@@ -1,5 +1,5 @@
 ---
-name: M. Sc. Magdalena Mischke
+name: Dr. rer. nat. Magdalena Mischke
 position: Wissenschaftliche Mitarbeiterin
 image_path: https://zaehlelab.org/images/MM.jpg
 website:
